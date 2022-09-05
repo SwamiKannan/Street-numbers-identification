@@ -1,4 +1,9 @@
 # ANNs using Keras - Street View House Numbers (SVHN) Dataset
+<p align="center">
+<img src="https://github.com/SwamiKannan/Street-numbers-identification/blob/main/cover.jpg">
+</p>
+
+
 ## Data:
 Object recognition and image processing has become one of the hottest topics in machine learning due to its vast and creative potential applications in the real world. The ability to process visual information using machine learning algorithms can be very useful, such as measuring the quality of NYC Bike Lanes through street imagery. Within this field, the Street View House Numbers (SVHN) dataset is one of the most popular ones. It has been used in neural networks created by Google to read house numbers and match them to their geolocations. This is a great benchmark dataset to play with, learn and train models that accurately identify street numbers, and incorporate into all sorts of projects.
 SVHN is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data formatting but comes from a significantly harder, unsolved, real world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images.
